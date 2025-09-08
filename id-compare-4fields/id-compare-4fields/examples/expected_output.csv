@@ -1,0 +1,3 @@
+image_file,id_match,dob_match,last_name_match,first_name_match,score
+ID_001.png,True,True,True,True,96
+ID_002.png,False,True,True,False,72

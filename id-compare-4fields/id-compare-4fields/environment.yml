@@ -1,0 +1,14 @@
+name: id-compare
+channels: [conda-forge]
+dependencies:
+  - python=3.11
+  - pip
+  - tesseract
+  - pip:
+      - opencv-python
+      - pytesseract
+      - python-dateutil
+      - pandas
+      - numpy
+      - rapidfuzz
+      - pytest

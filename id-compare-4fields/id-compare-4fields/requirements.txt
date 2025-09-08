@@ -1,0 +1,7 @@
+opencv-python
+pytesseract
+python-dateutil
+pandas
+numpy
+rapidfuzz
+pytest
